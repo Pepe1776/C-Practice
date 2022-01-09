@@ -1,0 +1,15 @@
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\bin\Debug\net6.0\FloatOintMath.exe
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\bin\Debug\net6.0\FloatOintMath.deps.json
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\bin\Debug\net6.0\FloatOintMath.runtimeconfig.json
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\bin\Debug\net6.0\FloatOintMath.dll
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\bin\Debug\net6.0\ref\FloatOintMath.dll
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\bin\Debug\net6.0\FloatOintMath.pdb
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.csproj.AssemblyReference.cache
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.AssemblyInfoInputs.cache
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.AssemblyInfo.cs
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.csproj.CoreCompileInputs.cache
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.dll
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\ref\FloatOintMath.dll
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.pdb
+C:\Users\Justin P\source\repos\FloatOintMath\FloatOintMath\obj\Debug\net6.0\FloatOintMath.genruntimeconfig.cache
